@@ -1,0 +1,500 @@
+  215  git push
+  216  git pull
+  217  git pull merge
+  218  git pull --ff-only
+  219  git config pull.rebase false
+  220  git pull --ff-only
+  221  git pull
+  222  git push
+  223  git push
+  224  branch Release
+  225  git branch Release
+  226  git switch Release
+  227  git pull
+  228  git push
+  229  ls
+  230  cd ~/Documents
+  231  ls
+  232  cd ~/Documents
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd ~/Documents
+  237  mkdir ProjectPlanning
+  238  cd ProjectPlanning/
+  239  mkdir Pepper
+  240  cd Pepper/
+  241  touch DesignDoc.odt
+  242  DesignDoc.odt
+  243  office DesignDoc.odt
+  244  libreoffice DesignDoc.odt 
+  245  node start
+  246  npm start
+  247  npm start
+  248  npm start
+  249  cd ~/Documents/CompSocOrgGit/
+  250  ls
+  251  cd CompSocWebsite/
+  252  git switch main
+  253  git commit -m "Changed Slider"
+  254  git add
+  255  git add .
+  256  git commit -m "Changed Slider"
+  257  git push
+  258  git add .
+  259  git commit -m "Added More Events"
+  260  git push
+  261  cd ~/Documents/CompSocOrgGit/
+  262  cd 
+  263  cd ~/Documents/CompSocOrgGit/
+  264  cd CompSocWebsite/
+  265  git push
+  266  git add .
+  267  git commit -m "Cleaned up"
+  268  git push
+  269  git add .
+  270  git commit -m "fixed event bug"
+  271  git push
+  272  sudo yay -Syu
+  273  sudo yay -Syu
+  274  sudo sysctl -w vm.max_map_count=1048576
+  275  cat /proc/sys/vm/max_map_count
+  276  ls
+  277  protonn
+  278  proton
+  279  ./proton
+  280  prefix
+  281  protonn
+  282  proton
+  283  wine projcet8.exe
+  284  wine project8.exe
+  285  winetricks project8.exe
+  286  winetricks
+  287  winecfg
+  288  winetricks
+  289  winetricks project8.exe -sw
+  290  wine project8.exe -sw
+  291  winetricks dxvk
+  292  wine project8.exe -sw
+  293  wine project8.exe
+  294  sudo apt-get remove winbind && sudo apt-get install winbind
+  295  sudo apt-get remove winbind && sudo apt-get install winbind
+  296  sudo yay -S winbind
+  297  pacman -F winbind
+  298  pacman -F winbindd
+  299  yay -S samba
+  300  wine project8.exe
+  301  vkcube
+  302  yay -S vulkan-tools
+  303  vkcube
+  304  wine project8.exe
+  305  vkcube
+  306  vkcube -h
+  307  sudo pacman -S --needed lib32-mesa vulkan-radeon lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader
+  308  vkcube
+  309  wine project8.exe
+  310  gay
+  311  ls
+  312  tcpui
+  313  da
+  314  tlpui
+  315  cd ~/Documents/CompSocOrgGit/
+  316  ls
+  317  cd CompSocWebsite/
+  318  git switch Release
+  319  ls
+  320  code ./
+  321  npm start
+  322  git add .
+  323  git commit -m "Fixed Some CSS"
+  324  git push
+  325  npm start
+  326  git add .
+  327  git commit -m "Fixed Css"
+  328  git push
+  329  yay -S snapd
+  330  snpa
+  331  snap
+  332  sudo yay -S snapd
+  333  git clone https://aur.archlinux.org/snapd.git
+  334  cd snapd/
+  335  makepkg -si
+  336  makepkg -si
+  337  cd ..
+  338  rm -r snapd
+  339  ls
+  340  cd ~/Downloads/
+  341  ls
+  342  cd jetbrains-toolbox-2.4.2.32922.tar.gz 
+  343  cd jetbrains-toolbox-2.4.2.32922
+  344  ls
+  345  ./jetbrains-toolbox 
+  346  ping google.com
+  347  ping www.google.com
+  348  ls
+  349  ls
+  350  cd /
+  351  ;s
+  352  ls
+  353  ls
+  354  cd ~/Documents/
+  355  ls
+  356  cd CompSocOrgGit/
+  357  ls
+  358  cd CompSocWebsite/
+  359  git add .
+  360  git commit -m "Fixed more css"
+  361  git push
+  362  git commit -m "Fixed more css"
+  363  git add .
+  364  git commit -m "Fixed more css"
+  365  git push
+  366  ls
+  367  git add .
+  368  git commit -m "Updated Images , Corrected Grammer"
+  369  git push
+  370  npm start
+  371  yay -S azuredatastudio-bin
+  372  yay -S azuredatastudio-bin
+  373  yay -S azuredatastudio-bin
+  374  yay -S azuredatastudio-bin
+  375  yay -S azuredatastudio-bin --overwrite
+  376  rm -R /var/tmp/pamac*
+  377  rm /usr/lib/debug/.build-id/c1/1c9bc818110b2370d9992f885037b7a1f74378
+  378  sudo rm /usr/lib/debug/.build-id/c1/1c9bc818110b2370d9992f885037b7a1f74378
+  379  sudo rm /usr/lib/debug/.build-id/c1/1c9bc818110b2370d9992f885037b7a1f74378
+  380  sudo rm /usr/lib/debug/.build-id/c1/1c9bc818110b2370d9992f885037b7a1f74378.debug
+  381  yay -S azuredatastudio-bin
+  382  yay -S docker-desktop
+  383  yay -S docker-desktop
+  384  yay -S docker-desktop
+  385  yay -S docker-desktop
+  386  ping 8.8.8.8
+  387  yay -S docker-desktop
+  388  yay -S docker-desktop
+  389  wget https://download.docker.com/linux/static/stable/x86_64/docker-27.2.1.tgz -qO- | tar xvfz - docker/docker --strip-components=1
+  390  wget https://download.docker.com/linux/static/stable/x86_64/docker-27.2.1.tgz -qO- | tar xvfz - docker/docker --strip-components=1
+  391  yay -S docker-desktop
+  392  docker
+  393  yay -S docker-desktop
+  394  sudo pacman -S docker -y
+  395  docker --version
+  396  sudo pacman -U ~/Downloads/docker-desktop-x86_64.pkg.tar.zst.crdownload 
+  397  docker ps
+  398  docker
+  399  docker start
+  400  docker start CONTAINER
+  401  docker run
+  402  sudo systemctl start docker
+  403  docker ps
+  404  sudo docker ps
+  405  docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  406  sudo docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  407  sudo docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  408  sudo docker ps
+  409  docker containers
+  410  sudo docker ps
+  411  sudo docker ps
+  412  sudo docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  413  sudo docker ps
+  414  sudo docker remove COMP2001sqlserv
+  415  sudo docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  416  sudo docker ps
+  417  cd ~/Documents/CompSocOrgGit/CompSocWebsite/
+  418  git add .
+  419  git commit -m "added joes image and temp desc for two people"
+  420  git push
+  421  npm start
+  422  yay -S forticlient-vpn
+  423  rm /usr/lib/debug/.build-id/f4/621c3403815feaf0b0e1f04c3cd0a2aa3dddf0
+  424  sudo rm /usr/lib/debug/.build-id/f4/621c3403815feaf0b0e1f04c3cd0a2aa3dddf0
+  425  yay -S forticlient-vpn
+  426  sudo rm /usr/lib/debug/.build-id/f4/621c3403815feaf0b0e1f04c3cd0a2aa3dddf0.debug
+  427  yay -S forticlient-vpn
+  428  sudo systemctl start docker
+  429  docker
+  430  docker containers
+  431  docker container
+  432  docker container ls
+  433  sudo docker container ls
+  434   wget https://download.docker.com/linux/static/stable/x86_64/docker-27.2.1.tgz -qO- | tar xvfz - docker/docker --strip-components=1
+  435  wget https://download.docker.com/linux/static/stable/x86_64/docker-27.2.1.tgz -qO- | tar xvfz - docker/docker --strip-components=1
+  436  wget https://download.docker.com/linux/static/stable/x86_64/docker-27.2.1.tgz -qO- | tar xvfz - docker/docker --strip-components=1
+  437  ./docker /usr/local/bin
+  438  docker
+  439  ls
+  440  cd ~/Downloads
+  441  ls
+  442  sudo pacman -U ./docker-desktop-x86_64.pkg.tar.zst.crdownload
+  443  docker
+  444  docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  445  sudo docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=C0mp2001!' -p 1433:1433 --name COMP2001sqlserv -d mcr.microsoft.com/azure-sql-edge
+  446  docker run /COMP2001sqlserv
+  447  docker run /comp2001sqlserv
+  448  docker run comp2001sqlserv
+  449  sudo docker run comp2001sqlserv
+  450  sudo docker run /comp2001sqlserv
+  451  sudo docker run ./comp2001sqlserv
+  452  sudo docker run e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0
+  453  sudo docker start e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0
+  454  docker ps
+  455  sudo docker ps
+  456  sudo docker ps
+  457  sudo docker restart e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0
+  458  sudo docker ps
+  459  sudo docker stop e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f
+  460  sudo docker stop e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0
+  461  docker ps
+  462  sudo docker ps
+  463  sudo docker start e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0
+  464  sudo docker ps
+  465  sudo docker save e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0
+  466  sudo docker rename e3ed36429cee8486b698c89bd5fe8b848910433a280b061fd56c8151be1864f0 2001ActivityDB
+  467  sudo docker ps
+  468  sudo docker stop 2001ActivityDB
+  469  sudo systemctl start windscribe
+  470  windscribe conncet
+  471  windscribe connect
+  472  windsribe connect
+  473  windscribe connect
+  474  systemctl start windscribe
+  475  windscribe conncet
+  476  windscribe connect
+  477  windscribe
+  478  windscribe status
+  479  ssh -J jumphostuser@62.8.121.204 clusterchallenge@192.168.100.10
+  480  sudo systemctl windscribe
+  481  sudo systemctl windscribe
+  482  sudo systemctl start windscribe
+  483  windscribe connect
+  484  npm start
+  485  ls
+  486  cd HyprV2/
+  487  ;s
+  488  ls
+  489  cd ..
+  490  ls
+  491  hypr
+  492  ./start-hypr
+  493  clear
+  494  ls
+  495  rm 4e7050d50e1db2e9fc4071bf31efa934-9842df81cb36c33c4aed6024aaf0a76254eeee4d.zip 
+  496  ls
+  497  cat rmlint.json
+  498  clear
+  499  ls
+  500  ls
+  501  cd Documents/
+  502  cd CIUKDAY2CHALL/
+  503  ls
+  504  cd Ciuk2024Challenge2/
+  505  ls
+  506  cd kafka-setup/
+  507  ls
+  508  touch prometheus.yml
+  509  nvim prometheus.yml 
+  510  docker run -d   --name prometheus   -p 9090:9090   -v $(pwd)/prometheus.yml:/etc/prometheus/prometheus.yml   prom/prometheus
+  511  sudo docker run -d   --name prometheus   -p 9090:9090   -v $(pwd)/prometheus.yml:/etc/prometheus/prometheus.yml   prom/prometheus
+  512  docker run -d   --name kafka-exporter   -p 9308:9308   danielqsj/kafka-exporter   --kafka.server=localhost:9092
+  513  sudo docker run -d   --name kafka-exporter   -p 9308:9308   danielqsj/kafka-exporter   --kafka.server=localhost:9092
+  514  nvim prometheus.yml 
+  515  docker restart prometheus
+  516  sudo docker restart prometheus
+  517  docker ps | grep kafka-exporter
+  518  sudo docker ps | grep kafka-exporter
+  519  docker run -d   --name kafka-exporter   -p 9308:9308   danielqsj/kafka-exporter   --kafka.server=localhost:9092
+  520  sudo docker run -d   --name kafka-exporter   -p 9308:9308   danielqsj/kafka-exporter   --kafka.server=localhost:9092
+  521  sudo docker ps
+  522  nvim prometheus.yml 
+  523  ls
+  524  nvim docker-compose.yml 
+  525  nvim docker-compose.yml 
+  526  sudo docker-compose up -d kafka-exporter
+  527  nvim docker-compose.yml 
+  528  nvim docker-compose.yml 
+  529  sudo docker-compose up -d kafka-exporter
+  530  sudo docker-compose up -d
+  531  docker ps
+  532  sudo docker ps
+  533  ls
+  534  nvim prometheus.yml 
+  535  nvim docker-compose.yml 
+  536  sudo docker-compose up -d kafka-exporter
+  537  sudo docker-compose up -d
+  538  sudo docker-compose stop kafka-exporter
+  539  sudo docker-compose up -d
+  540  sudo docker-compose rm kafka-exporter
+  541  sudo docker-compose up -d
+  542  docker ps -a | grep kafka-exporter
+  543  sudo docker ps -a | grep kafka-exporter
+  544  docker stop kafka-exporter
+  545  sudo docker stop kafka-exporter
+  546  sudo docker ps -a | grep kafka-exporter
+  547  sudo docker rm kafka-exporter
+  548  ls
+  549  sudo docker ps -a | grep kafka-exporter
+  550  sudo docker-compose up -d kafka-exporter
+  551  sudo docker stop kafka-exporter
+  552  sudo docker rm kafka-exporter
+  553  sudo docker-compose up -d
+  554  docker ps | grep kafka-exporter
+  555  sudo docker ps | grep kafka-exporter
+  556  sudo docker-compose up -d
+  557  sudo docker ps | grep kafka-exporter
+  558  sudo docker ps -a | grep kafka-exporter
+  559  docker logs kafka-exporter
+  560  sudo docker logs kafka-exporte
+  561  sudo docker logs kafka-exporter
+  562  docker ps | grep kafka
+  563  sudo docker ps | grep kafka
+  564  sudo ss -tuln | grep 9092
+  565  ls
+  566  nvim docker-compose.yml 
+  567  docker-compose down
+  568  sudo docker-compose down
+  569  sudo docker-compose up -d
+  570  docker ps | grep kafka
+  571  sudo docker ps | grep kafka
+  572  sudo docker ps -a | grep kafka-exporter
+  573  nvim docker-compose.yml 
+  574  sudo docker-compose up -d kafka-exporter
+  575  sudo docker ps -a | grep kafka-exporter
+  576  sudo docker ps -a | grep kafka-exporter
+  577  sudo docker ps -a | grep kafka-exporter
+  578  sudo docker ps -a | grep kafka-exporter
+  579  sudo docker logs kafka
+  580  sudo docker logs kafka-exporter
+  581  ss tuln | grep 9103
+  582  ss -tuln | grep 9103
+  583  sudo iptables -L
+  584  sudo iptables -A INPUT -p tcp --dport 9103 -j ACCEPT
+  585  nvim docker-compose.yml 
+  586  nvim docker-compose.yml 
+  587  nvim docker-compose.yml 
+  588  sudo docker-compose down
+  589  sudo docker-compose up -d
+  590  sudo docker-compose up -d kafka-exporter
+  591  nvim prometheus.yml 
+  592  docker restart prometheus
+  593  sudo docker restart prometheus
+  594  sudo systemctl status ufw
+  595  ps
+  596  dd -tuln | grep 9103
+  597  ss -tuln | grep 9103
+  598  sudo firewall-cmd --state
+  599  systemctl status firewalld.service
+  600  sudo iptables -L
+  601  sudo iptables -A INPUT -p tcp --dport 9103 -j ACCEPT
+  602  sudo iptables -L
+  603  s
+  604  ls
+  605  ls
+  606  nvim prometheus.yml 
+  607  docker restart prometheus
+  608  sudo docker restart prometheus
+  609  nvim prometheus.yml 
+  610  nvim prometheus.yml 
+  611  docker restart prometheus
+  612  sudo docker restart prometheus
+  613  nvim prometheus.yml 
+  614  sudo docker restart prometheus
+  615  sudo docker ps
+  616  docker exec -it 0bf27ff75990 sh
+  617  sudo docker exec -it 0bf27ff75990 sh
+  618  python -m http.client consumer 9103 /metrics
+  619  ls
+  620  sudo docker exec -it 0bf27ff75990 sh
+  621  sudo docker ps
+  622  docker inspect 05449f346977
+  623  sudo docker inspect 05449f346977
+  624  nvim prometheus.yml 
+  625  sudo docker restart prometheus
+  626  sudo docker restart prometheus
+  627  sudo docker ps
+  628  nvim prometheus.yml 
+  629  sudo docker restart prometheus
+  630  sudo docker ps
+  631  sudo docker inspect 360ea24cfe9d
+  632  nvim prometheus.yml 
+  633  sudo docker restart prometheus
+  634  sudo docker exec -it 0bf27ff75990 sh
+  635  nvim prometheus.yml 
+  636  sudo docker restart prometheus
+  637  nvim prometheus.yml 
+  638  sudo docker restart prometheus
+  639  sudo docker logs prometheus
+  640  sudo docker logs prometheus
+  641  nvim prometheus.yml 
+  642  sudo docker restart prometheus
+  643  sudo docker  network ls
+  644  nvim prometheus.yml 
+  645  sudo docker restart prometheus
+  646  nvim prometheus.yml 
+  647  sudo docker restart prometheus
+  648  nvim prometheus.yml 
+  649  sudo docker logs prometheus
+  650  nvim prometheus.yml 
+  651  sudo docker logs prometheus
+  652  sudo docker restart prometheus
+  653  nvim prometheus.yml 
+  654  sudo docker restart prometheus
+  655  nvim prometheus.yml 
+  656  nvim prometheus.yml 
+  657  sudo docker restart prometheus
+  658  sudo docker logs prometheus
+  659  nvim prometheus.yml 
+  660  sudo docker restart prometheus
+  661  sudo journal -f
+  662  sudo yay -S journal
+  663  sudo yay -S journal
+  664  nvim prometheus.yml 
+  665  nvim prometheus.yml 
+  666  sudo docker restart prometheus
+  667  nvim prometheus.yml 
+  668  sudo docker restart prometheus
+  669  sudo docker logs prometheus
+  670  nvim prometheus.yml 
+  671  sudo docker restart prometheus
+  672  sudo docker logs prometheus
+  673  nvim prometheus.yml 
+  674  sudo docker restart prometheus
+  675  sudo docker ps
+  676  sudo docker exec -it 05449f346977 sh
+  677  sudo docker inspect 05449f346977
+  678  nvim prometheus.yml 
+  679  sudo docker restart prometheus
+  680  ls
+  681  cat consumer.py 
+  682  sudo docker ps
+  683  sudo docker inspect 05449f346977
+  684  docker network connect consumer 05449f346977
+  685  sudo docker network connect consumer 05449f346977
+  686  sudo docker network connect localhost:9103 05449f346977
+  687  sudo docker ps
+  688  docker inspect consumer | grep IPAddress
+  689  sudo docker inspect consumer | grep IPAddress
+  690  nvim prometheus.yml 
+  691  sudo docker restart prometheus
+  692  ipconfig
+  693  ip
+  694  ifconfig
+  695  nvim prometheus.yml 
+  696  sudo docker restart prometheus
+  697  nvim prometheus.yml 
+  698  nvim prometheus.yml 
+  699  sudo docker restart prometheus
+  700  ls
+  701  nvim docker-compose.yml 
+  702  docker-compose up -d grafana
+  703  sudo docker-compose up -d grafana
+  704  nvim docker-compose.yml 
+  705  nvim docker-compose.yml 
+  706  docker-compose up -d grefana
+  707  docker-compose up -d grafana
+  708  sudo docker restart prometheus
+  709  docker-compose up -d grefana
+  710  docker
+  711  sudo systemctl status docker
+  712  sudo docker-compose up -d grafana
+  713  nvim prometheus.yml 
+  714  history 600 > Commands.txt
