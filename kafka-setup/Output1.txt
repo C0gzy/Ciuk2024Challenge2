@@ -1,0 +1,60 @@
+  537  docker-compose
+  538  sudo yum -y install docker 
+  539  sudo systemctl start docker
+  540  sudo systemctl enable docker
+  541  sudo curl -L "https://github.com/docker/compose/releases/download/2.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  542  sudo chmod +x /usr/local/bin/docker-compose
+  543  docker --version
+  544  docker-compose --version
+  545  docker-compose --v
+  546  docker-compose
+  547  ls
+  548  pwd
+  549  sudo yay -S docker
+  550  docker
+  551  sudo curl -L  https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose 
+  552  docker-compose --version
+  553  cd ..
+  554  ls
+  555  ls
+  556  cd ..
+  557  ls
+  558  cd ..
+  559  ls
+  560  cd CIUKDAY2CHALL/
+  561  ls
+  562  cd Ciuk2024Challenge2/
+  563  ls
+  564  cd kafka-setup/
+  565  ls
+  566  nano docker-compose.yml 
+  567  cat docker-compose.yml 
+  568  docker-compose up -d
+  569  vim docker-compose.yml 
+  570  nvim docker-compose.yml 
+  571  ls
+  572  rm docker-compose.yml 
+  573  ls
+  574  touch docker-compose.yml
+  575  nvim docker-compose.yml 
+  576  rm docker-compose.yml 
+  577  touch docker-compose.yml
+  578  rm docker-compose.yml 
+  579  touch docker-compose.yml
+  580  nvim docker-compose.yml 
+  581  docker-compose up -d
+  582  nvim docker-compose.yml 
+  583  docker-compose up -d
+  584  sudo systemctl start docker
+  585  docker-compose up -d
+  586  docker
+  587  sudo systemctl status docker
+  588  docker-compose up -d
+  589  sudo docker-compose up -d
+  590  docker exec -it kafka bash
+  591  sudo docker exec -it kafka bash
+  592  ls
+  593  history 20
+  594  history 50
+  595  history 60
+  596  history 60 > Output1.txt
